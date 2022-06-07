@@ -6,6 +6,9 @@ npm install  uuid//for keys for addFeedback() in App.js
 npm i framer-motion@4.1.17
 //react does not have  router but we can install one
 npm i react-router-dom
+npm run build
+npm i -g serve//install serve global
+serve -s build
 
 function App(){
     return React.createElement('div',{className : 'container'},React.createElement('h1',{ },'My App'))
