@@ -1,3 +1,5 @@
+Deplayed at Netlify.com : link -> https://quiet-blini-c495d7.netlify.app/
+
 list of commands
 
 npx create-react-app feedback-app --use-npm
