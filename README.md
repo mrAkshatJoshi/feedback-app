@@ -1,3 +1,16 @@
+list of commands
+npx create-react-app feedback-app --use-npm
+npm i react-icons
+npm install  uuid//for keys for addFeedback() in App.js
+//we will use a library called Framer Motion for adding fading effect while adding and deleting feedback
+//in the FeedbackList thats where we loop through and output each item
+npm i framer-motion@4.1.17
+//react does not have  router but we can install one
+npm i react-router-dom
+npm run build
+npm i -g serve//install serve global
+serve -s build
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
